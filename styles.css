@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    background-color: #f4f4f4; /* Cor de fundo */
+    color: #333; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    padding: 20px; /* Espaçamento interno */
+}
+
+h1 {
+    color: #4CAF50; /* Cor do título */
+}
+
+input[type="text"] {
+    padding: 10px; /* Espaçamento interno */
+    width: 200px; /* Largura do campo de entrada */
+    margin: 10px 0; /* Margem acima e abaixo */
+    border: 1px solid #ccc; /* Borda do campo */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+
+button {
+    padding: 10px 15px; /* Espaçamento interno */
+    background-color: #4CAF50; /* Cor de fundo do botão */
+    color: white; /* Cor do texto do botão */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    cursor: pointer; /* Cursor de mão ao passar o mouse */
+}
+
+button:hover {
+    background-color: #45a049; /* Cor do botão ao passar o mouse */
+}
+
+#Resultado {
+    margin-top: 20px; /* Margem acima do resultado */
+    font-size: 18px; /* Tamanho da fonte do resultado */
+    line-height: 1.5; /* Espaçamento entre linhas */
+}
